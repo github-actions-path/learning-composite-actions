@@ -1,4 +1,4 @@
-# 01_04-composite-actions
+# composite-actions
 Use these files to test a composite action.
 
 1. Create TWO new repos:
